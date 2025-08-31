@@ -55,7 +55,7 @@ With this Data Warehouse, analysts can easily answer questions such as:
 ---
 
 ## 📽️ Demo Video
-A short video explaining the project and showing the ETL workflow is available [here](LINK_TO_VIDEO).
+A short video explaining the project and showing the ETL workflow is available [here](https://www.linkedin.com/posts/mostafa-abdelzaher_dataengineering-etl-ssis-activity-7367959442304172032-N7Ug?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVHA8wB_mXG5dC5J3ayO2HtqI-pwqAsrXE).
 
 ---
 
